@@ -6,3 +6,34 @@ h1{
 nav{
     background-color:greenyellow ;
 }
+
+.portada{ 
+   border: rgb(255, 10, 255);
+    color: rgb(204, 4, 204);
+    margin: solid;
+    margin: 15px;
+    border: 14px;
+    max-width: 350px;
+    background-color: rgb(250, 45, 9);
+    text-align: center;
+    border-style: solid;
+
+
+
+}
+
+BODY{
+    background-color: rgb(202, 252, 252);
+}
+
+footer{
+    background-color: black;
+}
+
+h6{
+    color: wheat;
+    text-justify: auto;
+  max-width: 150px;
+  border-style: solid;
+  border-radius: 10px;
+}
