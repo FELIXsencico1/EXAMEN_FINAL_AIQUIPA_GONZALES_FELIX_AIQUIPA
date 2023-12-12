@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     color: red;
+  text-underline-offset: 20px;
 }
 
 nav{
@@ -63,3 +64,6 @@ h2{
     text-align: start;
     color: white;
 }
+
+
+
