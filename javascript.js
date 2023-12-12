@@ -1,12 +1,9 @@
-function saludo (i=usuario) {
-    console.log ("BIENVENIDO "+ saludo)
+function saludo () {
+    
+    console.log ("BIENVENIDO  A XGIOMAP"  )
 }
-  
 
-saludo()
-
-);
 
 //se creara una tabla de nombres comunes por compradores 
 
-function s
+function cod_mapa (1,2,3,4,5,6,7,8,9,);
