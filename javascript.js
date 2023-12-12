@@ -4,6 +4,15 @@ function saludo () {
 }
 
 
-//se creara una tabla de nombres comunes por compradores 
+saludo ()
 
-function cod_mapa (1,2,3,4,5,6,7,8,9,);
+//se busca dar un numero identificador a cada mapa por ejemplo para MAPA: SILICON VALLEY.
+
+
+function cod_mapa (){
+    var i=4 ; i>=6; i+++
+    console.log ("mapa de: " + i)
+    
+    }
+
+    cod_map ()
