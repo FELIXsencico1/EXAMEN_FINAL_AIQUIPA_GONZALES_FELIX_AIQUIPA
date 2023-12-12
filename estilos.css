@@ -27,7 +27,7 @@ BODY{
 }
 
 footer{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 h6{
@@ -36,4 +36,17 @@ h6{
   max-width: 150px;
   border-style: solid;
   border-radius: 10px;
+}
+
+h3{
+    line-height: 50px;
+}
+
+
+.centro{
+    background-color: cornflowerblue;
+    border-style: solid;
+    text-align: center;
+    border: 1100px;
+    
 }
